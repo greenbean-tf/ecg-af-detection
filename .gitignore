@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.claude/
+*.npy
+*.pt
+*.pth
+*.mp4
+data/
+models/
+raw_challenge2020/
